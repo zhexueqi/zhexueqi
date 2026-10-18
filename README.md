@@ -47,9 +47,6 @@
 ### 📊 [新质生产力人才图谱](https://gitee.com/zhexueqi/big-data_-gk)
 > 📈 **大数据分析平台** | 人才成长路径智能分析
 
-### 🍜 [苍穹外卖](https://github.com/zhexueqi/sky-take-out-master)
-> 🛒 **全栈外卖系统** | Spring Boot + 微信小程序
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -99,13 +96,7 @@
 
 </div>
 
-## 🎯 2025 Goals
 
-- [✅️] 完善QiAPI开放平台的企业级功能
-- [✅️] 探索AI Agent在实际业务场景中的应用
-- [] 深入研究区块链技术在传统行业的落地
-- [] 贡献更多优质开源项目
-- [] 分享更多技术文章和最佳实践
 
 ---
 
